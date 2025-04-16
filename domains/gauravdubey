@@ -1,0 +1,10 @@
+{
+    "description": "Personal Portfolio, Url redirect to gauravdubey.is-a.dev",
+    "owner": {
+        "username": "gauravdubey19",
+        "email": "dubeygaurav520@gmail.com"
+    },
+    "record": {
+        "URL": "https://gauravdubey.vercel.app/"
+    }
+}
